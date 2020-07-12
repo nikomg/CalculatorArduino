@@ -1,6 +1,7 @@
 # CalculatorArduino
 This is My first project on arduino
 
+## About project
 This project is VEERY simple, because in qaruantinue i cant buy normal parts for project.
 And I don’t even have a button
 But i already do order on AliExpress and soon I will have components to continue: 
