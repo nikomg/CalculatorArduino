@@ -13,4 +13,4 @@ When you rotate one of encoders you change first or second number. And on displa
 Everything is very simple, but generally cool.<br>
 ## Scheme
 
-![SCHEME](https://github.com/nikomg/CalculatorArduino/blob/master/CalculatorScheme.png?raw=true)
+![SCHEME](https://github.com/nikomg/CalculatorArduino/blob/master/CalcScheme.png?raw=true)
