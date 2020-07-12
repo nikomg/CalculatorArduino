@@ -3,7 +3,7 @@
 This is My first project on arduino
 
 ## About project
-This project is VEERY simple, because in qaruantinue i cant buy normal parts for project.<br>
+This project is VEERY simple, because on quarantine i cant buy normal parts for project.<br>
 And I don’t even have a button<br>
 But i already do order on AliExpress and soon I will have components to continue: <br>
 buttons and a screen. <br>
