@@ -11,3 +11,5 @@ Yes, now info is displayed in the port monitor ...<br>
 Okay, and now about project:<br>
 When you rotate one of encoders you change first or second number. And on display you see a result of summ.<br>
 Everything is very simple, but generally cool.<br>
+## Scheme
+![SCHEME](https://github.com/nikomg/CalculatorArduino/blob/master/CalculatorScheme.png?raw=true)
