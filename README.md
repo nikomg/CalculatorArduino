@@ -17,3 +17,9 @@ In future i add button for change a step of encoder.
 ## Scheme
 
 ![SCHEME](https://github.com/nikomg/CalculatorArduino/blob/master/CalculatorScheme.png?raw=true)
+
+## Real Photo
+
+![PHOTO](https://github.com/nikomg/CalculatorArduino/blob/master/Realphoto.jpg?raw=true)
+<br>
+When my project have a 20 stars: i record a video about a project. 
